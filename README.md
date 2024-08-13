@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pritesh Ranjan</h1>
-<h3 align="center">A passionate Data Engineer from India</h3>
+<h3 align="center">A passionate SDET from India</h3>
 
 <p align="left"><img
         alt="pritesh-ranjan"
         src="https://komarev.com/ghpvc/?username=pritesh-ranjan&label=Profile%20views&color=0e75b6&style=flat"/></p>
 
-- 🔭 I’m currently working on **building ELT pipelines**
+- 🔭 I’m currently working on **test automation framework**
 
 - 🌱 I’m currently learning **Generative AI**
 
